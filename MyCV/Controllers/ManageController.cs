@@ -6,9 +6,10 @@ using System.Web.Mvc;
 using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
+using MyCV;
 using MyCV.Models;
 
-namespace MyCV.Controllers
+namespace CV.Controllers
 {
     [Authorize]
     public class ManageController : Controller
