@@ -91,6 +91,7 @@
         padding-top: 2px;
         padding-bottom: 2px;
         padding-right: 3px;
+        padding-left: 3px;
     }
 
     #skills > div:nth-child(even) > div {
@@ -100,6 +101,7 @@
         padding-top: 2px;
         padding-bottom: 2px;
         padding-left: 3px;
+        padding-right: 3px;
     }
 
     #skills > div > div {

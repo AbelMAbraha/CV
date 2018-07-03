@@ -14,9 +14,9 @@
     $("#workExperience").fadeIn(3000);
     $("#contact").fadeIn(4000);
 
-    $("#skills > div:first-child > div > div").css({ "transition": "1.5s", "height": "10px", "width": "80%" });
-    $("#skills > div:nth-child(2) > div > div").css({ "transition": "1.5s", "height": "10px", "width": "80%" });
-    $("#skills > div:nth-child(3) > div > div").css({ "transition": "1.5s", "height": "10px", "width": "60%" });
+    $("#skills > div:first-child > div > div").css({ "transition": "1.5s", "height": "10px", "width": "90%" });
+    $("#skills > div:nth-child(2) > div > div").css({ "transition": "1.5s", "height": "10px", "width": "90%" });
+    $("#skills > div:nth-child(3) > div > div").css({ "transition": "1.5s", "height": "10px", "width": "70%" });
     $("#skills > div:nth-child(4) > div > div").css({ "transition": "1.5s", "height": "10px", "width": "40%" });
     $("#skills > div:nth-child(5) > div > div").css({ "transition": "1.5s", "height": "10px", "width": "40%" });
     $("#skills > div:nth-child(6) > div > div").css({ "transition": "1.5s", "height": "10px", "width": "50%" });
